@@ -60,7 +60,7 @@ function getWinner(playerMove,computerMove) {
        console.log("Invalid move selection.  Did you use all lowercase? (Type only letters)");
        } 
 }
-       
+       //
 function corePlayToFive() {
     console.log("Let's play Rock, Paper, Scissors");
     var playerWins = 0;
